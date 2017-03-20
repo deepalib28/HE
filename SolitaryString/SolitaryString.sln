@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolitaryString", "SolitaryString\SolitaryString.csproj", "{E7F5FA3E-D64C-4D7F-91FF-EB075B306118}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1A5558FC-A543-489A-B10D-ED9D0A232253}"
+	ProjectSection(SolutionItems) = preProject
+		ProblemStatement.xml = ProblemStatement.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F5FA3E-D64C-4D7F-91FF-EB075B306118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F5FA3E-D64C-4D7F-91FF-EB075B306118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F5FA3E-D64C-4D7F-91FF-EB075B306118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F5FA3E-D64C-4D7F-91FF-EB075B306118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
