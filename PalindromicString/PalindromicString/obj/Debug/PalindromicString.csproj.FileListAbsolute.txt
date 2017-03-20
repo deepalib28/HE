@@ -1,0 +1,6 @@
+D:\hackerearth\PalindromicString\PalindromicString\bin\Debug\PalindromicString.exe.config
+D:\hackerearth\PalindromicString\PalindromicString\bin\Debug\PalindromicString.exe
+D:\hackerearth\PalindromicString\PalindromicString\bin\Debug\PalindromicString.pdb
+D:\hackerearth\PalindromicString\PalindromicString\obj\Debug\PalindromicString.csprojResolveAssemblyReference.cache
+D:\hackerearth\PalindromicString\PalindromicString\obj\Debug\PalindromicString.exe
+D:\hackerearth\PalindromicString\PalindromicString\obj\Debug\PalindromicString.pdb
