@@ -1,0 +1,6 @@
+D:\hackerearth\ToggleString\ToggleString\bin\Debug\ToggleString.exe.config
+D:\hackerearth\ToggleString\ToggleString\bin\Debug\ToggleString.exe
+D:\hackerearth\ToggleString\ToggleString\bin\Debug\ToggleString.pdb
+D:\hackerearth\ToggleString\ToggleString\obj\Debug\ToggleString.csprojResolveAssemblyReference.cache
+D:\hackerearth\ToggleString\ToggleString\obj\Debug\ToggleString.exe
+D:\hackerearth\ToggleString\ToggleString\obj\Debug\ToggleString.pdb
